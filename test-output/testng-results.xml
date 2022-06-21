@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-19T13:50:41 IST" name="Default suite" finished-at="2022-06-19T13:53:15 IST" duration-ms="153805">
+    <groups>
+    </groups>
+    <test started-at="2022-06-19T13:50:41 IST" name="Default test" finished-at="2022-06-19T13:53:15 IST" duration-ms="153805">
+      <class name="test.ZerodhaLoginpageTest">
+        <test-method is-config="true" signature="extentReports()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:50:41 IST" name="extentReports" finished-at="2022-06-19T13:50:42 IST" duration-ms="927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReports -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:50:42 IST" name="browser" finished-at="2022-06-19T13:51:02 IST" duration-ms="19684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="LoginwihoutCredentials()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:02 IST" name="LoginwihoutCredentials" finished-at="2022-06-19T13:51:08 IST" duration-ms="6532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginwihoutCredentials -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:08 IST" name="closeBrowser" finished-at="2022-06-19T13:51:08 IST" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginwihoutCredentials status=SUCCESS method=ZerodhaLoginpageTest.LoginwihoutCredentials()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:08 IST" name="browser" finished-at="2022-06-19T13:51:20 IST" duration-ms="11394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="forgotpasswordlinkTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:20 IST" name="forgotpasswordlinkTest" finished-at="2022-06-19T13:51:20 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpasswordlinkTest -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:20 IST" name="closeBrowser" finished-at="2022-06-19T13:51:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotpasswordlinkTest status=SUCCESS method=ZerodhaLoginpageTest.forgotpasswordlinkTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:51:20 IST" name="browser" finished-at="2022-06-19T13:52:15 IST" duration-ms="54712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="LoginWithValidCredentialTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:52:15 IST" name="LoginWithValidCredentialTest" finished-at="2022-06-19T13:52:15 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredentialTest -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:52:15 IST" name="closeBrowser" finished-at="2022-06-19T13:52:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithValidCredentialTest status=SUCCESS method=ZerodhaLoginpageTest.LoginWithValidCredentialTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:52:15 IST" name="browser" finished-at="2022-06-19T13:53:08 IST" duration-ms="52521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="signuplinkTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:53:08 IST" name="signuplinkTest" finished-at="2022-06-19T13:53:08 IST" depends-on-methods="test.ZerodhaLoginpageTest.LoginwihoutCredentials" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuplinkTest -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:53:08 IST" name="closeBrowser" finished-at="2022-06-19T13:53:08 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signuplinkTest status=SUCCESS method=ZerodhaLoginpageTest.signuplinkTest()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="flushResult()[pri:0, instance:test.ZerodhaLoginpageTest@158d2680]" started-at="2022-06-19T13:53:08 IST" name="flushResult" finished-at="2022-06-19T13:53:15 IST" duration-ms="6279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushResult -->
+      </class> <!-- test.ZerodhaLoginpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

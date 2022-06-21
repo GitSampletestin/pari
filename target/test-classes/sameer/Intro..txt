@@ -1,0 +1,10 @@
+`--hi...good morning.
+--I am sameer sawant,i am basically from baramati & currently living in baramati.
+--I did my gradutation in 2018,from "SPPU Univercity" in pune.
+--I have total three year of experiance in automation and manual testing.
+--In my experience i have worked on "Banking domain" and "Telecom domain",
+--As working on those projects we use agile methodology for develpoment and testing,
+--and selenium webdriver with java as an automation test tool.
+--Currently i am working on investment banking domain project and client is (k2 venture capital).
+-- Also i have knoledge about API Testing with POSTMAN and SQL for data base testing. 
+-- I worked on tools like Jira,Github and Postman.

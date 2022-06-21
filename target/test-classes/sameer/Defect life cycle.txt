@@ -1,0 +1,56 @@
+DEFECT LIFE CYCLE: It is a cycle through which a bug travel
+
+new --> assigned(Dev ready) --> open(Dev in progress) [Duplicate + deffered + rejected[Invalid bug] + not a bug] --> fixed(Dev Done) 
+--> pending retest(QA Ready) --> retest(QA in progress) --> reopen(Sent Back) --> verified(QA Done) --> closed
+
+new  : It is the first state of the lifecycle in which the bug is identified. Whenever a new bug is found, it is assigned a new state, 
+and then the process of testing and validation starts, which leads to new states
+
+assigned  : The bug which was newly created is now assigned to the relevant developing department so that it can be fixed. 
+Usually, the manager of the testing team assigns bugs to the developing team. 
+
+open  : When a developer starts working on the issue, it falls in an open state. Developers will start working on the bug according to
+the requirements. There are also chances that the issue won’t seem appropriate, in that case, the developer can transfer the issue to 
+these four states based on specific reasons. 
+
+fixed  : A state is marked as fixed when the developer performs necessary actions and the issues no longer exist.
+
+pending retest : Once a developer works on the issue and fixes the required changes, it is sent back to the tester to test the issue again. 
+The time which is consumed for the waiting of repeated testing, defect remains in the state of ‘Pending Retest’.
+
+retest : When the tester starts testing the issue again, at that point the issue falls in the retest phase. The tester will check again if 
+the developer fixed the bugs as per requirement or not.
+
+reopen : If the requirements are not met properly and the issue still exists in the function then the tester reopens the bug state.
+
+verified : If there is no issue in the bug and it was fixed properly by the developer then the state of the bug is changed and it is marked 
+as verified. 
+
+closed : When a defect does not exist and is tested and verified properly then it ends at a closed state. Tester changes the state of the defect. 
+
+
+
+
+Employee:	Select * from employee;							AmzonLogo
+column1		column2		column3
+
+Defect : There is no data in employee table  <--- Reject
+
+For deffered:
+Comment: This defect will be resolved in next sprint, as its not on priority
+
+
+defect raised 24/05/22
+
+
+
+- Repeatative
+- Critical test cases [High priority test cases]
+
+
+
+
+
+
+
+
